@@ -112,7 +112,7 @@ main {
   content: "matric:";
 }
 .cgpa::before {
-  content: "content:";
+  content: "cgpa:";
 }
 .address::before {
   content: "address:";
