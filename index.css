@@ -54,11 +54,15 @@ main {
   width: 60%;
   height: 0.2em;
   left: 0;
-  bottom: -10%;
+  bottom: -0.2em;
   background-color: #ee3c03;
   border-radius: 1rem;
 }
-
+.members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .member {
   display: flex;
   justify-content: center;
@@ -79,6 +83,7 @@ main {
   font-weight: 600;
   font-size: 1rem;
   width: fit-content;
+  text-transform: capitalize;
 }
 
 @media screen and (max-width: 400px) {
@@ -91,4 +96,22 @@ main {
   .member > * {
     margin: auto;
   }
+}
+.matric::before,
+.cgpa::before,
+.address::before {
+  display: inline-block;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-right: 0.5rem;
+}
+
+.matric::before {
+  content: "matric:";
+}
+.cgpa::before {
+  content: "content:";
+}
+.address::before {
+  content: "address:";
 }
