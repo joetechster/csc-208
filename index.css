@@ -45,6 +45,7 @@ main {
   font-weight: 600;
   text-transform: uppercase;
   width: fit-content;
+  margin-inline: auto;
 }
 .group::after,
 .name::after {
@@ -81,6 +82,9 @@ main {
 }
 
 @media screen and (max-width: 400px) {
+  .header-text {
+    text-align: start;
+  }
   .member {
     flex-direction: column;
   }
