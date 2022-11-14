@@ -117,3 +117,6 @@ main {
 .address::before {
   content: "address:";
 }
+.address {
+  text-transform: capitalize;
+}
