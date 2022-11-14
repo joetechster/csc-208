@@ -69,7 +69,7 @@ const members = [
     name: "OWOEYE OLUWATOBI ISAAC",
     matric: "1909003074",
     address: "Are road 2",
-    image: "",
+    image: "IMG-20221114-WA0024.jpg",
   },
 ];
 
