@@ -71,6 +71,48 @@ const members = [
     address: "Are road 2",
     image: "IMG-20221114-WA0024.jpg",
   },
+{
+    name: "Lawal Sikiru Abiola",
+    matric: "168870032",
+    address: "Titilope Schoolgate",
+    image: "",
+  },
+{
+    name: "Ajayi Oluwatosin funmilola",
+    matric: "1904007027",
+    address: "Back of yemkem",
+    image: "",
+  },
+{
+    name: "Adione Emmanuel Toluwanimi",
+    matric: "1909003007",
+    address: "Success Lodge, Phase 3",
+    image: "",
+  },
+{
+    name: "Aremu David Olamiposi",
+    matric: "1904007045",
+    address: "Iworoko",
+    image: "",
+  },
+{
+    name: "ADEWALE MICHAEL OLUWATOBILOBA",
+    matric: "1904007016",
+    address: "IWOROKO",
+    image: "",
+  },
+{
+    name: "Akinfoyeku philip anuoluwapo",
+    matric: "1904007037",
+    address: "Iworoko ado ekiti ",
+    image: "",
+  },
+{
+    name: "Ajayi taiwo Steven",
+    matric: "178862058",
+    address: "Jans suits, Ado iworoko ekiti",
+    image: "",
+  },
 ];
 
 const membersEl = document.querySelector(".members");
