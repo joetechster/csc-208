@@ -81,7 +81,7 @@ const members = [
     name: "Ajayi Oluwatosin funmilola",
     matric: "1904007027",
     address: "Back of yemkem",
-    image: "MG-20221123-WA0005.jpg",
+    image: "IMG-20221123-WA0005.jpg",
   },
 {
     name: "Adione Emmanuel Toluwanimi",
