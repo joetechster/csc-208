@@ -3,7 +3,7 @@ const members = [
     name: "Bamidele Damilola Joseph",
     matric: "1909003030",
     address: "blue lodge, irewumni community, ado-ekiti",
-    image: "",
+    image: "Snapchat-1524366931.jpg",
   },
   {
     name: "owoeye oluwashina samuel",
