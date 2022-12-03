@@ -4,6 +4,7 @@ const members = [
     matric: "1909003030",
     address: "blue lodge, irewumni community, ado-ekiti",
     image: "Snapchat-1524366931.jpg",
+    groupLeader: true,
   },
   {
     name: "owoeye oluwashina samuel",
@@ -117,10 +118,12 @@ const members = [
 
 const membersEl = document.querySelector(".members");
 for (const member of members) {
+  const pos = member.groupLeader ? 'Group Leader' : `Group Member ${members.indexOf(member)}`
   const stringElement = `
     <section class="member">
       <img src="./images/${member.image ? member.image : "placeholder.jpg"}" />
       <div class="details">
+        <p>${pos}</p>
         <p class="name">${member.name}</p>
         <p class="address">${member.address ? member.address : "null"}</p>
         <p class="matric">${member.matric}</p>
