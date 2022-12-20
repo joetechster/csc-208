@@ -120,6 +120,13 @@ const members = [
     address: "Zion hostel, iworoko",
     image: "IMG-20221220-WA0002.jpg",
   },
+{
+    name: "ASHIFAT RUKAYAT MOROMOKE",
+    matric: "178430124",
+    address: "Irewunmi beside deeperlife church 
+Ado Ekiti",
+    image: "",
+  },
 ];
 
 const membersEl = document.querySelector(".members");
