@@ -114,6 +114,12 @@ const members = [
     address: "Jans suits, Ado iworoko ekiti",
     image: "IMG-20221123-WA0002.jpg",
   },
+{
+    name: "Salau aminat omobolaji",
+    matric: "178430040",
+    address: "Zion hostel, iworoko",
+    image: "",
+  },
 ];
 
 const membersEl = document.querySelector(".members");
