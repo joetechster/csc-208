@@ -123,8 +123,7 @@ const members = [
 {
     name: "ASHIFAT RUKAYAT MOROMOKE",
     matric: "178430124",
-    address: "Irewunmi beside deeperlife church 
-Ado Ekiti",
+    address: "Irewunmi beside deeperlife church Ado Ekiti",
     image: "IMG-20221220-WA0003.jpg",
   },
 ];
