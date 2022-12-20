@@ -125,7 +125,7 @@ const members = [
     matric: "178430124",
     address: "Irewunmi beside deeperlife church 
 Ado Ekiti",
-    image: "",
+    image: "IMG-20221220-WA0003.jpg",
   },
 ];
 
