@@ -118,7 +118,7 @@ const members = [
     name: "Salau aminat omobolaji",
     matric: "178430040",
     address: "Zion hostel, iworoko",
-    image: "",
+    image: "IMG-20221220-WA0002.jpg",
   },
 ];
 
